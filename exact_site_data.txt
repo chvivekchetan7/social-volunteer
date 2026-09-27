@@ -1,0 +1,45 @@
+[{key:"canUseDOM",set:function(d){t.canUseDOM=d}}]
+
+========================================
+
+[{x:p.clientX+b,y:p.clientY},{x:C,y:w.top},{x:N,y:w.top},{x:N,y:w.bottom},{x:C,y:w.bottom}]
+
+========================================
+
+[{path:"/",label:"Home"},{path:"/about",label:"About"},{path:"/opportunities",label:"Opportunities"},{path:"/directory",label:"Directory"},{path:"/gallery",label:"Gallery"},{path:"/blog",label:"Blog"},{path:"/plans",label:"Plans"}]
+
+========================================
+
+[{path:"/",label:"Home"},{path:"/about",label:"About"},{path:"/opportunities",label:"Opportunities"},{path:"/contact",label:"Contact"},{path:"/blog",label:"Blog"}]
+
+========================================
+
+[{icon:Uk,href:"#",label:"Facebook"},{icon:Jk,href:"#",label:"Twitter"},{icon:Hk,href:"#",label:"LinkedIn"},{icon:Wk,href:"#",label:"Instagram"}]
+
+========================================
+
+[{icon:mc,label:"Active Volunteers",value:"2,847"},{icon:io,label:"Hours Served",value:"47,293"},{icon:rw,label:"Lives Impacted",value:"12,456"},{icon:la,label:"Opportunities",value:"183"}]
+
+========================================
+
+[{quote:"Volunteering through this platform <span class='text-primary font-bold'>changed my perspective</span> on community service. The opportunities are well-organized and truly impactful.",name:"Priya Sharma",role:"Education Volunteer",initials:"PS"},{quote:"I've served over 200 hours and earned multiple badges. The digital ID card makes it <span class='text-primary font-bold'>easy to showcase</span> my volunteer work to employers.",name:"Arjun Patel",role:"Healthcare Volunteer",initials:"AP"},{quote:"As an organization, we've found dedicated volunteers who share our mission. The platform <span class='text-primary font-bold'>streamlines the entire</span> coordination process.",name:"Meera Reddy",role:"NGO Coordinator",initials:"MR"}]
+
+========================================
+
+[{icon:rw,title:"Compassion",description:"We believe in the power of empathy and kindness to transform communities."},{icon:mc,title:"Collaboration",description:"Working together with volunteers and organizations to maximize impact."},{icon:aa,title:"Excellence",description:"Committed to delivering high-quality volunteer experiences and outcomes."},{icon:zk,title:"Inclusivity",description:"Creating opportunities accessible to everyone, regardless of background."}]
+
+========================================
+
+[{name:"Sridhar G",role:"Founder and CEO",initials:"SG"},{name:"Sridhar V",role:"Director",initials:"SV"},{name:"Naveen G",role:"Director",initials:"NG"},{name:"Srinath",role:"Project Leader",initials:"S"}]
+
+========================================
+
+[{label:"Active Volunteers",value:"2,847"},{label:"Total Hours Served",value:"47,293"},{label:"Lives Impacted",value:"12,456"},{label:"Partner Organizations",value:"87"}]
+
+========================================
+
+[{icon:Hc,label:"Profile",path:"/dashboard/profile",color:"primary"},{icon:la,label:"My Opportunities",path:"/dashboard/my-opportunities",color:"secondary"},{icon:io,label:"History",path:"/dashboard/history",color:"accent"},{icon:Jf,label:"Certificates",path:"/dashboard/certificates",color:"primary"},{icon:aa,label:"Badges",path:"/dashboard/badges",color:"secondary"},{icon:Vk,label:"Digital ID",path:"/dashboard/id-card",color:"accent"},{icon:Ik,label:"Notifications",path:"/dashboard/notifications",color:"primary"},{icon:Yk,label:"Settings",path:"/dashboard/settings",color:"secondary"}]
+
+========================================
+
+[{icon:mc,label:"User Management",path:"/admin/users",color:"primary"},{icon:la,label:"Opportunities",path:"/admin/opportunities",color:"secondary"},{icon:bv,label:"Organizations",path:"/admin/organizations",color:"accent"},{icon:$k,label:"Gallery",path:"/admin/gallery",color:"primary"},{icon:zh,label:"Events",path:"/admin/events",color:"secondary"},{icon:Jf,label:"Blog",path:"/admin/blog",color:"accent"},{icon:aa,label:"Certificates",path:"/admin/certificates",color:"primary"},{icon:io,label:"Reports",path:"/admin/reports",color:"secondary"}]
